@@ -1,5 +1,6 @@
 package com.hms.entity;
 
 public class RoomBooking {
-System.out.print("room booking");
+    
+System.out.print("room bookings ");
 }
